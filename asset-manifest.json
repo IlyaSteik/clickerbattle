@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/clickerbattle/static/js/main.bf9b06fb.chunk.js",
-    "main.js.map": "/clickerbattle/static/js/main.bf9b06fb.chunk.js.map",
+    "main.js": "/clickerbattle/static/js/main.4361c51c.chunk.js",
+    "main.js.map": "/clickerbattle/static/js/main.4361c51c.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
     "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.85f0b673.js.map",
     "static/css/2.266626f9.chunk.css": "/clickerbattle/static/css/2.266626f9.chunk.css",
     "static/js/2.cff32faa.chunk.js": "/clickerbattle/static/js/2.cff32faa.chunk.js",
     "static/js/2.cff32faa.chunk.js.map": "/clickerbattle/static/js/2.cff32faa.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.e0ceff122e241bcc2dd82ac3a2784509.js": "/clickerbattle/precache-manifest.e0ceff122e241bcc2dd82ac3a2784509.js",
+    "precache-manifest.45934c015e2c1a10b063c624aed62b16.js": "/clickerbattle/precache-manifest.45934c015e2c1a10b063c624aed62b16.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.266626f9.chunk.css.map": "/clickerbattle/static/css/2.266626f9.chunk.css.map",
-    "static/media/atlas.png": "/clickerbattle/static/media/atlas.585a6f1c.png",
-    "static/media/hr.png": "/clickerbattle/static/media/hr.0fe3082e.png",
-    "static/media/noob.png": "/clickerbattle/static/media/noob.21ba0058.png",
-    "static/media/whisper.png": "/clickerbattle/static/media/whisper.02f529f9.png"
+    "static/media/atlas.png": "/clickerbattle/static/media/atlas.d4f1326a.png",
+    "static/media/hr.png": "/clickerbattle/static/media/hr.085534a9.png",
+    "static/media/noob.png": "/clickerbattle/static/media/noob.ecdb8578.png",
+    "static/media/whisper.png": "/clickerbattle/static/media/whisper.55cda7e0.png"
   }
 }
