@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ca7ca16ffe2a8678f702c107e2473ac",
+    "revision": "15d740e1a906934c653c453ff15051ec",
     "url": "/clickerbattle/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/js/2.58267b89.chunk.js"
   },
   {
-    "revision": "23f8e226e215459aaa36",
-    "url": "/clickerbattle/static/js/main.48c1f4f5.chunk.js"
+    "revision": "671b90d7970e5b839c1c",
+    "url": "/clickerbattle/static/js/main.082ad32d.chunk.js"
   },
   {
     "revision": "52d7d27ccb81db53142f",
