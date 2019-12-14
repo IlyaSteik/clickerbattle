@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/clickerbattle/static/js/main.0782c630.chunk.js",
-    "main.js.map": "/clickerbattle/static/js/main.0782c630.chunk.js.map",
+    "main.js": "/clickerbattle/static/js/main.9eb5fdac.chunk.js",
+    "main.js.map": "/clickerbattle/static/js/main.9eb5fdac.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
     "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.85f0b673.js.map",
     "static/css/2.266626f9.chunk.css": "/clickerbattle/static/css/2.266626f9.chunk.css",
     "static/js/2.2b3530be.chunk.js": "/clickerbattle/static/js/2.2b3530be.chunk.js",
     "static/js/2.2b3530be.chunk.js.map": "/clickerbattle/static/js/2.2b3530be.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.43558861db6224dbbf008a7902533ac7.js": "/clickerbattle/precache-manifest.43558861db6224dbbf008a7902533ac7.js",
+    "precache-manifest.972f497f2deadc1601adb126b2705840.js": "/clickerbattle/precache-manifest.972f497f2deadc1601adb126b2705840.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.266626f9.chunk.css.map": "/clickerbattle/static/css/2.266626f9.chunk.css.map",
     "static/media/atlas.png": "/clickerbattle/static/media/atlas.0f44b4d7.png",
     "static/media/hr.png": "/clickerbattle/static/media/hr.284e47d6.png",
-    "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.0848b51b.png",
+    "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.6bf71ed4.png",
     "static/media/ic_person.png": "/clickerbattle/static/media/ic_person.98254df5.png",
-    "static/media/ic_xp.png": "/clickerbattle/static/media/ic_xp.e94c0c5f.png",
+    "static/media/ic_xp.png": "/clickerbattle/static/media/ic_xp.02d3b165.png",
     "static/media/noob.png": "/clickerbattle/static/media/noob.eaa557dd.png",
     "static/media/whisper.png": "/clickerbattle/static/media/whisper.8b3f0149.png"
   }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d358a21cbe693aea31cc79e050804ac",
+    "revision": "c3b0654c89b7f366e7663b0e3402ca93",
     "url": "/clickerbattle/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/js/2.2b3530be.chunk.js"
   },
   {
-    "revision": "6490c4c3c3ae5cc1910d",
-    "url": "/clickerbattle/static/js/main.0782c630.chunk.js"
+    "revision": "d0f18e51abfc93141abd",
+    "url": "/clickerbattle/static/js/main.9eb5fdac.chunk.js"
   },
   {
     "revision": "52d7d27ccb81db53142f",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/media/hr.284e47d6.png"
   },
   {
-    "revision": "0848b51b7e69c01ba6cf81f240605921",
-    "url": "/clickerbattle/static/media/ic_click.0848b51b.png"
+    "revision": "6bf71ed483907650d1980d402baff075",
+    "url": "/clickerbattle/static/media/ic_click.6bf71ed4.png"
   },
   {
     "revision": "98254df5b8c8d61c34b638a16baee96e",
     "url": "/clickerbattle/static/media/ic_person.98254df5.png"
   },
   {
-    "revision": "e94c0c5f833f8f2708518bebb9235ca8",
-    "url": "/clickerbattle/static/media/ic_xp.e94c0c5f.png"
+    "revision": "02d3b165b5c287fbd2dad07403793d3d",
+    "url": "/clickerbattle/static/media/ic_xp.02d3b165.png"
   },
   {
     "revision": "eaa557ddb00673be5f6cb866f21b564f",
