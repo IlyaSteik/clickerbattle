@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51d445962813792e49d673fc71ddb299",
+    "revision": "5e4f6d511d36d59f44a664d547602af8",
     "url": "/clickerbattle/index.html"
   },
   {
-    "revision": "bd37d0f43aa0772b8ce4",
+    "revision": "1a0f7efea4e8885f347e",
     "url": "/clickerbattle/static/css/2.266626f9.chunk.css"
   },
   {
-    "revision": "f84b0dc7a8601ca3f0a1",
+    "revision": "bd1648f75d3bdbd74264",
     "url": "/clickerbattle/static/css/main.c15b1548.chunk.css"
   },
   {
-    "revision": "bd37d0f43aa0772b8ce4",
-    "url": "/clickerbattle/static/js/2.8e15f363.chunk.js"
+    "revision": "1a0f7efea4e8885f347e",
+    "url": "/clickerbattle/static/js/2.c4acd02e.chunk.js"
   },
   {
-    "revision": "f84b0dc7a8601ca3f0a1",
-    "url": "/clickerbattle/static/js/main.d5c9abf0.chunk.js"
+    "revision": "bd1648f75d3bdbd74264",
+    "url": "/clickerbattle/static/js/main.494eaa89.chunk.js"
   },
   {
     "revision": "52d7d27ccb81db53142f",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/media/atlas.0f44b4d7.png"
   },
   {
+    "revision": "b705a87e9f37b63cd770dfa58ee7a8b1",
+    "url": "/clickerbattle/static/media/atlas_ny.b705a87e.png"
+  },
+  {
     "revision": "284e47d62dd9d30a544485fe3a5b095c",
     "url": "/clickerbattle/static/media/hr.284e47d6.png"
+  },
+  {
+    "revision": "695567fb6583488d7aa92c2940a19d90",
+    "url": "/clickerbattle/static/media/hr_ny.695567fb.png"
   },
   {
     "revision": "5427fc7070f1423acc15e24baee552a9",
@@ -48,7 +56,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/media/noob.eaa557dd.png"
   },
   {
+    "revision": "12fc9a5d4cd9d2081798c53bf2411421",
+    "url": "/clickerbattle/static/media/noob_ny.12fc9a5d.png"
+  },
+  {
     "revision": "8b3f01499a7ba7b39dc80a3dd2b3ada5",
     "url": "/clickerbattle/static/media/whisper.8b3f0149.png"
+  },
+  {
+    "revision": "34bce21081fa5205c2382cf99b9486c8",
+    "url": "/clickerbattle/static/media/whisper_ny.34bce210.png"
   }
 ]);
