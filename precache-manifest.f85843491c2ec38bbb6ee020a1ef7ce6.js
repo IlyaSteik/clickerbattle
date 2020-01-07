@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3278d220feaa25f92c5efaa5acd77536",
+    "revision": "62b0d7b7c18ad417e0331e0350011b18",
     "url": "/clickerbattle/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/css/2.266626f9.chunk.css"
   },
   {
-    "revision": "d75fe45cd2d83ce1f2bb",
+    "revision": "53510b17977808b912d1",
     "url": "/clickerbattle/static/css/main.c15b1548.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/js/2.a7eab4e9.chunk.js"
   },
   {
-    "revision": "d75fe45cd2d83ce1f2bb",
-    "url": "/clickerbattle/static/js/main.83661b0e.chunk.js"
+    "revision": "53510b17977808b912d1",
+    "url": "/clickerbattle/static/js/main.8b5563c1.chunk.js"
   },
   {
     "revision": "52d7d27ccb81db53142f",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/media/ic_person.8c172c13.png"
   },
   {
-    "revision": "12e61641dea8d2ba37ffafb8ec477cf9",
-    "url": "/clickerbattle/static/media/ic_qr.12e61641.png"
+    "revision": "c0f77e78b7bbaebca4d59a1a164c0042",
+    "url": "/clickerbattle/static/media/ic_qr.c0f77e78.png"
   },
   {
     "revision": "8c2615aa43705101676d0a4b8e94e3a1",
