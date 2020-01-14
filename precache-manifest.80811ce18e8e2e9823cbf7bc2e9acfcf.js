@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f773ace5f300a86f335a54c42270ca20",
+    "revision": "9a3f6b0e7aff9bfed76a91ed79b8e3b7",
     "url": "/clickerbattle/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/css/2.266626f9.chunk.css"
   },
   {
-    "revision": "82cb6cb6bf903286ea3d",
+    "revision": "f1642cdac0473394edd6",
     "url": "/clickerbattle/static/css/main.4949f3b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/js/2.47211469.chunk.js"
   },
   {
-    "revision": "82cb6cb6bf903286ea3d",
-    "url": "/clickerbattle/static/js/main.2d02dca5.chunk.js"
+    "revision": "f1642cdac0473394edd6",
+    "url": "/clickerbattle/static/js/main.fb26791c.chunk.js"
   },
   {
     "revision": "52d7d27ccb81db53142f",
