@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.53521ed2.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.7a8b5a62.chunk.js",
-    "main.js.map": "/clickerbattle/static/js/main.7a8b5a62.chunk.js.map",
-    "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
-    "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.85f0b673.js.map",
-    "static/css/2.266626f9.chunk.css": "/clickerbattle/static/css/2.266626f9.chunk.css",
-    "static/js/2.57e12f7f.chunk.js": "/clickerbattle/static/js/2.57e12f7f.chunk.js",
-    "static/js/2.57e12f7f.chunk.js.map": "/clickerbattle/static/js/2.57e12f7f.chunk.js.map",
+    "main.js": "/clickerbattle/static/js/main.fe122c8b.chunk.js",
+    "main.js.map": "/clickerbattle/static/js/main.fe122c8b.chunk.js.map",
+    "runtime-main.js": "/clickerbattle/static/js/runtime-main.39ecd0f7.js",
+    "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.39ecd0f7.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/clickerbattle/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.e1db3a25.chunk.js": "/clickerbattle/static/js/2.e1db3a25.chunk.js",
+    "static/js/2.e1db3a25.chunk.js.map": "/clickerbattle/static/js/2.e1db3a25.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.5eb5219e6d066bad6348b558bfcd0dcb.js": "/clickerbattle/precache-manifest.5eb5219e6d066bad6348b558bfcd0dcb.js",
+    "precache-manifest.6a390adfb64ba2647bc742214c24b593.js": "/clickerbattle/precache-manifest.6a390adfb64ba2647bc742214c24b593.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
-    "static/css/2.266626f9.chunk.css.map": "/clickerbattle/static/css/2.266626f9.chunk.css.map",
+    "static/css/2.2cfa1b23.chunk.css.map": "/clickerbattle/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.53521ed2.chunk.css.map": "/clickerbattle/static/css/main.53521ed2.chunk.css.map",
+    "static/js/2.e1db3a25.chunk.js.LICENSE": "/clickerbattle/static/js/2.e1db3a25.chunk.js.LICENSE",
     "static/media/atlas.png": "/clickerbattle/static/media/atlas.0f44b4d7.png",
     "static/media/atlas_ny.png": "/clickerbattle/static/media/atlas_ny.b705a87e.png",
     "static/media/hr.png": "/clickerbattle/static/media/hr.284e47d6.png",
@@ -26,5 +27,12 @@
     "static/media/noob_ny.png": "/clickerbattle/static/media/noob_ny.12fc9a5d.png",
     "static/media/whisper.png": "/clickerbattle/static/media/whisper.8b3f0149.png",
     "static/media/whisper_ny.png": "/clickerbattle/static/media/whisper_ny.34bce210.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ecd0f7.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.e1db3a25.chunk.js",
+    "static/css/main.53521ed2.chunk.css",
+    "static/js/main.fe122c8b.chunk.js"
+  ]
 }
