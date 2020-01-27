@@ -1,1 +1,0 @@
-start cmd /K "npm run deploy"
