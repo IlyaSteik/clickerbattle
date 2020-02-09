@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/clickerbattle/precache-manifest.4350881462f7d5ab78d51355420c27ee.js"
+  "/clickerbattle/precache-manifest.7cdc1420a09b2d3906a9f2cbd072edce.js"
 );
 
 self.addEventListener('message', (event) => {
