@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clickerbattle/static/css/main.d90f3bb7.chunk.css",
+    "main.css": "/clickerbattle/static/css/main.a2dae968.chunk.css",
     "main.js": "/clickerbattle/static/js/main.367bbf1d.chunk.js",
     "main.js.map": "/clickerbattle/static/js/main.367bbf1d.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
@@ -9,10 +9,10 @@
     "static/js/2.b501f08d.chunk.js": "/clickerbattle/static/js/2.b501f08d.chunk.js",
     "static/js/2.b501f08d.chunk.js.map": "/clickerbattle/static/js/2.b501f08d.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.ec6de605bee77a954f61ef62d392d1d4.js": "/clickerbattle/precache-manifest.ec6de605bee77a954f61ef62d392d1d4.js",
+    "precache-manifest.fba4e9fe0a19dd0277ebbbaa316d29ad.js": "/clickerbattle/precache-manifest.fba4e9fe0a19dd0277ebbbaa316d29ad.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.733ba2d0.chunk.css.map": "/clickerbattle/static/css/2.733ba2d0.chunk.css.map",
-    "static/css/main.d90f3bb7.chunk.css.map": "/clickerbattle/static/css/main.d90f3bb7.chunk.css.map",
+    "static/css/main.a2dae968.chunk.css.map": "/clickerbattle/static/css/main.a2dae968.chunk.css.map",
     "static/media/atlas.png": "/clickerbattle/static/media/atlas.0f44b4d7.png",
     "static/media/atlas_ny.png": "/clickerbattle/static/media/atlas_ny.b705a87e.png",
     "static/media/hr.png": "/clickerbattle/static/media/hr.284e47d6.png",
