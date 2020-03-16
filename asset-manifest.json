@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.6ff1eba7.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.8815af0e.chunk.js",
-    "main.js.map": "/clickerbattle/static/js/main.8815af0e.chunk.js.map",
+    "main.js": "/clickerbattle/static/js/main.25f11e9b.chunk.js",
+    "main.js.map": "/clickerbattle/static/js/main.25f11e9b.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
     "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.85f0b673.js.map",
     "static/css/2.733ba2d0.chunk.css": "/clickerbattle/static/css/2.733ba2d0.chunk.css",
     "static/js/2.ef801be6.chunk.js": "/clickerbattle/static/js/2.ef801be6.chunk.js",
     "static/js/2.ef801be6.chunk.js.map": "/clickerbattle/static/js/2.ef801be6.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.2fad3e8215f0157f4adc845860b1db1f.js": "/clickerbattle/precache-manifest.2fad3e8215f0157f4adc845860b1db1f.js",
+    "precache-manifest.dcf9e64aa0b89ad8b07bc7591ff9bf36.js": "/clickerbattle/precache-manifest.dcf9e64aa0b89ad8b07bc7591ff9bf36.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.733ba2d0.chunk.css.map": "/clickerbattle/static/css/2.733ba2d0.chunk.css.map",
     "static/css/main.6ff1eba7.chunk.css.map": "/clickerbattle/static/css/main.6ff1eba7.chunk.css.map",
