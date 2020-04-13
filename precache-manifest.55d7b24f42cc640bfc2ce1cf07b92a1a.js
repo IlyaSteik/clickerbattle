@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da4a89c37f1c62c1bde9f6834d392843",
+    "revision": "57458dc880aadb00b3161bbaf23cdefb",
     "url": "/clickerbattle/index.html"
   },
   {
-    "revision": "314cd96ab42777963567",
+    "revision": "6219d2453ed7ba2ac1b3",
     "url": "/clickerbattle/static/css/2.733ba2d0.chunk.css"
   },
   {
-    "revision": "21ccc63966fb47a02679",
-    "url": "/clickerbattle/static/css/main.639d95a8.chunk.css"
+    "revision": "39fd72ceb71a8a2de320",
+    "url": "/clickerbattle/static/css/main.d742111c.chunk.css"
   },
   {
-    "revision": "314cd96ab42777963567",
-    "url": "/clickerbattle/static/js/2.d397a663.chunk.js"
+    "revision": "6219d2453ed7ba2ac1b3",
+    "url": "/clickerbattle/static/js/2.04b1574a.chunk.js"
   },
   {
-    "revision": "21ccc63966fb47a02679",
-    "url": "/clickerbattle/static/js/main.5e35fa4b.chunk.js"
+    "revision": "39fd72ceb71a8a2de320",
+    "url": "/clickerbattle/static/js/main.7ea7bfd6.chunk.js"
   },
   {
     "revision": "52d7d27ccb81db53142f",
     "url": "/clickerbattle/static/js/runtime-main.85f0b673.js"
-  },
-  {
-    "revision": "0f44b4d720f1a1b58b253a0a59698d26",
-    "url": "/clickerbattle/static/media/atlas.0f44b4d7.png"
   },
   {
     "revision": "9e9cbad56a3677b7f0a5e8734bec8ff3",
@@ -38,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fbc901a1722f7c05e805ace0b1af455e",
     "url": "/clickerbattle/static/media/font.fbc901a1.otf"
-  },
-  {
-    "revision": "284e47d62dd9d30a544485fe3a5b095c",
-    "url": "/clickerbattle/static/media/hr.284e47d6.png"
   },
   {
     "revision": "65eb4b570335ad44dd8def2287c855af",
@@ -76,20 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clickerbattle/static/media/idk.dcda79fd.png"
   },
   {
-    "revision": "eaa557ddb00673be5f6cb866f21b564f",
-    "url": "/clickerbattle/static/media/noob.eaa557dd.png"
-  },
-  {
     "revision": "22bbbac7820371c63a21bfe855cccd9c",
     "url": "/clickerbattle/static/media/noob_covid19.22bbbac7.png"
   },
   {
     "revision": "12fc9a5d4cd9d2081798c53bf2411421",
     "url": "/clickerbattle/static/media/noob_ny.12fc9a5d.png"
-  },
-  {
-    "revision": "8b3f01499a7ba7b39dc80a3dd2b3ada5",
-    "url": "/clickerbattle/static/media/whisper.8b3f0149.png"
   },
   {
     "revision": "9acd9b6ef4eeb90c8eb17b56348d73be",
