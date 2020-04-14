@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clickerbattle/static/css/main.9fa41f0c.chunk.css",
+    "main.css": "/clickerbattle/static/css/main.f2bf327f.chunk.css",
     "main.js": "/clickerbattle/static/js/main.5adee31b.chunk.js",
     "main.js.map": "/clickerbattle/static/js/main.5adee31b.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
@@ -9,10 +9,10 @@
     "static/js/2.10f72d4e.chunk.js": "/clickerbattle/static/js/2.10f72d4e.chunk.js",
     "static/js/2.10f72d4e.chunk.js.map": "/clickerbattle/static/js/2.10f72d4e.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.5b4a781a54e35d041b8bc46eb6b2e13e.js": "/clickerbattle/precache-manifest.5b4a781a54e35d041b8bc46eb6b2e13e.js",
+    "precache-manifest.8f4c64e363df187550e842334d007327.js": "/clickerbattle/precache-manifest.8f4c64e363df187550e842334d007327.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.733ba2d0.chunk.css.map": "/clickerbattle/static/css/2.733ba2d0.chunk.css.map",
-    "static/css/main.9fa41f0c.chunk.css.map": "/clickerbattle/static/css/main.9fa41f0c.chunk.css.map",
+    "static/css/main.f2bf327f.chunk.css.map": "/clickerbattle/static/css/main.f2bf327f.chunk.css.map",
     "static/media/atlas_covid19.png": "/clickerbattle/static/media/atlas_covid19.9e9cbad5.png",
     "static/media/atlas_ny.png": "/clickerbattle/static/media/atlas_ny.b705a87e.png",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
