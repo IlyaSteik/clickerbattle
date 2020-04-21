@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.6fd36538.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.9709c8f2.chunk.js",
+    "main.js": "/clickerbattle/static/js/main.16323bd6.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.85f0b673.js",
     "static/css/2.19c24e8c.chunk.css": "/clickerbattle/static/css/2.19c24e8c.chunk.css",
     "static/js/2.ab2dee5e.chunk.js": "/clickerbattle/static/js/2.ab2dee5e.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.9e1407b1f9c9199950f8cb6d64b08ff1.js": "/clickerbattle/precache-manifest.9e1407b1f9c9199950f8cb6d64b08ff1.js",
+    "precache-manifest.278c4b1a18e0dd83354a83f8e07ac07e.js": "/clickerbattle/precache-manifest.278c4b1a18e0dd83354a83f8e07ac07e.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
     "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.5427fc70.png",
