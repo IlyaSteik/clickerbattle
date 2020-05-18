@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.404673d6.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.4acf0eee.chunk.js",
+    "main.js": "/clickerbattle/static/js/main.52805c07.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "static/css/2.4bc62760.chunk.css": "/clickerbattle/static/css/2.4bc62760.chunk.css",
     "static/js/2.affc111e.chunk.js": "/clickerbattle/static/js/2.affc111e.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.3ef31ffcf8c9678c83cb96b31f00fe54.js": "/clickerbattle/precache-manifest.3ef31ffcf8c9678c83cb96b31f00fe54.js",
+    "precache-manifest.e9c076d109161b39c02d10d286b3c167.js": "/clickerbattle/precache-manifest.e9c076d109161b39c02d10d286b3c167.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/js/2.affc111e.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.affc111e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
@@ -21,6 +21,6 @@
     "static/css/2.4bc62760.chunk.css",
     "static/js/2.affc111e.chunk.js",
     "static/css/main.404673d6.chunk.css",
-    "static/js/main.4acf0eee.chunk.js"
+    "static/js/main.52805c07.chunk.js"
   ]
 }
