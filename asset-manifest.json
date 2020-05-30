@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/clickerbattle/static/css/main.06c75863.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.a5da8fcb.chunk.js",
-    "main.js.map": "/clickerbattle/static/js/main.a5da8fcb.chunk.js.map",
+    "main.css": "/clickerbattle/static/css/main.862d434b.chunk.css",
+    "main.js": "/clickerbattle/static/js/main.d7521dc2.chunk.js",
+    "main.js.map": "/clickerbattle/static/js/main.d7521dc2.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.53584cdf.js.map",
     "static/css/2.a5f28351.chunk.css": "/clickerbattle/static/css/2.a5f28351.chunk.css",
-    "static/js/2.8f4e1416.chunk.js": "/clickerbattle/static/js/2.8f4e1416.chunk.js",
-    "static/js/2.8f4e1416.chunk.js.map": "/clickerbattle/static/js/2.8f4e1416.chunk.js.map",
+    "static/js/2.371e1e9c.chunk.js": "/clickerbattle/static/js/2.371e1e9c.chunk.js",
+    "static/js/2.371e1e9c.chunk.js.map": "/clickerbattle/static/js/2.371e1e9c.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.d843977d6f5817d0860c469007f64285.js": "/clickerbattle/precache-manifest.d843977d6f5817d0860c469007f64285.js",
+    "precache-manifest.a1f8e5a4652a64c3bae8eca805703d8f.js": "/clickerbattle/precache-manifest.a1f8e5a4652a64c3bae8eca805703d8f.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.a5f28351.chunk.css.map": "/clickerbattle/static/css/2.a5f28351.chunk.css.map",
-    "static/css/main.06c75863.chunk.css.map": "/clickerbattle/static/css/main.06c75863.chunk.css.map",
-    "static/js/2.8f4e1416.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.8f4e1416.chunk.js.LICENSE.txt",
+    "static/css/main.862d434b.chunk.css.map": "/clickerbattle/static/css/main.862d434b.chunk.css.map",
+    "static/js/2.371e1e9c.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.371e1e9c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
     "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.5427fc70.png",
     "static/media/ic_person.png": "/clickerbattle/static/media/ic_person.8c172c13.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
     "static/css/2.a5f28351.chunk.css",
-    "static/js/2.8f4e1416.chunk.js",
-    "static/css/main.06c75863.chunk.css",
-    "static/js/main.a5da8fcb.chunk.js"
+    "static/js/2.371e1e9c.chunk.js",
+    "static/css/main.862d434b.chunk.css",
+    "static/js/main.d7521dc2.chunk.js"
   ]
 }
