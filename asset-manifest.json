@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.fdbe1402.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.a2dda880.chunk.js",
+    "main.js": "/clickerbattle/static/js/main.fc0a5eee.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "static/css/2.458b8b1b.chunk.css": "/clickerbattle/static/css/2.458b8b1b.chunk.css",
-    "static/js/2.a81a1cfa.chunk.js": "/clickerbattle/static/js/2.a81a1cfa.chunk.js",
+    "static/js/2.9203a3cf.chunk.js": "/clickerbattle/static/js/2.9203a3cf.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.0521ff4d03588e8b480a5bc48fcba711.js": "/clickerbattle/precache-manifest.0521ff4d03588e8b480a5bc48fcba711.js",
+    "precache-manifest.733861a200addc143bcc5f57bf56852e.js": "/clickerbattle/precache-manifest.733861a200addc143bcc5f57bf56852e.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
-    "static/js/2.a81a1cfa.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.a81a1cfa.chunk.js.LICENSE.txt",
+    "static/js/2.9203a3cf.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.9203a3cf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
     "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.5427fc70.png",
     "static/media/ic_person.png": "/clickerbattle/static/media/ic_person.8c172c13.png",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
     "static/css/2.458b8b1b.chunk.css",
-    "static/js/2.a81a1cfa.chunk.js",
+    "static/js/2.9203a3cf.chunk.js",
     "static/css/main.fdbe1402.chunk.css",
-    "static/js/main.a2dda880.chunk.js"
+    "static/js/main.fc0a5eee.chunk.js"
   ]
 }
