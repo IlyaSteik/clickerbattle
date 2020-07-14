@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.13ffa0ea.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.d1685de6.chunk.js",
-    "main.js.map": "/clickerbattle/static/js/main.d1685de6.chunk.js.map",
+    "main.js": "/clickerbattle/static/js/main.1a4b6413.chunk.js",
+    "main.js.map": "/clickerbattle/static/js/main.1a4b6413.chunk.js.map",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "runtime-main.js.map": "/clickerbattle/static/js/runtime-main.53584cdf.js.map",
     "static/css/2.a0516daf.chunk.css": "/clickerbattle/static/css/2.a0516daf.chunk.css",
-    "static/js/2.c199f5a3.chunk.js": "/clickerbattle/static/js/2.c199f5a3.chunk.js",
-    "static/js/2.c199f5a3.chunk.js.map": "/clickerbattle/static/js/2.c199f5a3.chunk.js.map",
+    "static/js/2.7adaae26.chunk.js": "/clickerbattle/static/js/2.7adaae26.chunk.js",
+    "static/js/2.7adaae26.chunk.js.map": "/clickerbattle/static/js/2.7adaae26.chunk.js.map",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.a069d0d79b3978986b64239c4781f553.js": "/clickerbattle/precache-manifest.a069d0d79b3978986b64239c4781f553.js",
+    "precache-manifest.7c9e860a3fbdddb8778d0e3216d98b3a.js": "/clickerbattle/precache-manifest.7c9e860a3fbdddb8778d0e3216d98b3a.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/css/2.a0516daf.chunk.css.map": "/clickerbattle/static/css/2.a0516daf.chunk.css.map",
     "static/css/main.13ffa0ea.chunk.css.map": "/clickerbattle/static/css/main.13ffa0ea.chunk.css.map",
-    "static/js/2.c199f5a3.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.c199f5a3.chunk.js.LICENSE.txt",
+    "static/js/2.7adaae26.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.7adaae26.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
     "static/media/history_backward_outline_28.png": "/clickerbattle/static/media/history_backward_outline_28.b207a006.png",
     "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.5427fc70.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
     "static/css/2.a0516daf.chunk.css",
-    "static/js/2.c199f5a3.chunk.js",
+    "static/js/2.7adaae26.chunk.js",
     "static/css/main.13ffa0ea.chunk.css",
-    "static/js/main.d1685de6.chunk.js"
+    "static/js/main.1a4b6413.chunk.js"
   ]
 }
