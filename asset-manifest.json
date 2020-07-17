@@ -4,11 +4,11 @@
     "main.js": "/clickerbattle/static/js/main.854dba83.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "static/css/2.8ad8a0f3.chunk.css": "/clickerbattle/static/css/2.8ad8a0f3.chunk.css",
-    "static/js/2.94dee3e5.chunk.js": "/clickerbattle/static/js/2.94dee3e5.chunk.js",
+    "static/js/2.5eff8043.chunk.js": "/clickerbattle/static/js/2.5eff8043.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.aae7fc180295f6e632bd89e46644ccb9.js": "/clickerbattle/precache-manifest.aae7fc180295f6e632bd89e46644ccb9.js",
+    "precache-manifest.d3427f802d696739e732e10ac6bdab18.js": "/clickerbattle/precache-manifest.d3427f802d696739e732e10ac6bdab18.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
-    "static/js/2.94dee3e5.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.94dee3e5.chunk.js.LICENSE.txt",
+    "static/js/2.5eff8043.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.5eff8043.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
     "static/media/history_backward_outline_28.png": "/clickerbattle/static/media/history_backward_outline_28.b207a006.png",
     "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.5427fc70.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
     "static/css/2.8ad8a0f3.chunk.css",
-    "static/js/2.94dee3e5.chunk.js",
+    "static/js/2.5eff8043.chunk.js",
     "static/css/main.b1878c46.chunk.css",
     "static/js/main.854dba83.chunk.js"
   ]
