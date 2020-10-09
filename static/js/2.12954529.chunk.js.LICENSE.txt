@@ -51,6 +51,8 @@ object-assign
 
 /*! eruda v2.2.2 https://eruda.liriliri.io/ */
 
+/*! https://mths.be/codepointat v0.2.0 by @mathias */
+
 /*! https://mths.be/utf8js v2.1.2 by @mathias */
 
 /**

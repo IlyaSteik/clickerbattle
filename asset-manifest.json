@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/clickerbattle/static/css/main.b1878c46.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.4fa8f12c.chunk.js",
+    "main.css": "/clickerbattle/static/css/main.d5b0f3e9.chunk.css",
+    "main.js": "/clickerbattle/static/js/main.771297a4.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
-    "static/css/2.8ad8a0f3.chunk.css": "/clickerbattle/static/css/2.8ad8a0f3.chunk.css",
-    "static/js/2.5eff8043.chunk.js": "/clickerbattle/static/js/2.5eff8043.chunk.js",
+    "static/css/2.2d6169ee.chunk.css": "/clickerbattle/static/css/2.2d6169ee.chunk.css",
+    "static/js/2.12954529.chunk.js": "/clickerbattle/static/js/2.12954529.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.ce37fd0903d0d95bb5b65ccfe63c3f69.js": "/clickerbattle/precache-manifest.ce37fd0903d0d95bb5b65ccfe63c3f69.js",
+    "precache-manifest.caa5ad4b92a7aa9415d1e3de867f53a8.js": "/clickerbattle/precache-manifest.caa5ad4b92a7aa9415d1e3de867f53a8.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
-    "static/js/2.5eff8043.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.5eff8043.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/clickerbattle/static/media/font.fbc901a1.otf",
-    "static/media/history_backward_outline_28.png": "/clickerbattle/static/media/history_backward_outline_28.b207a006.png",
+    "static/js/2.12954529.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.12954529.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/clickerbattle/static/media/TT-Commons.fbc901a1.otf",
+    "static/media/Manrope-SemiBold.ttf": "/clickerbattle/static/media/Manrope-SemiBold.255d425d.ttf",
+    "static/media/click_fall.png": "/clickerbattle/static/media/click_fall.2f1525c1.png",
+    "static/media/ic_case_leg.png": "/clickerbattle/static/media/ic_case_leg.22159343.png",
     "static/media/ic_click.png": "/clickerbattle/static/media/ic_click.5427fc70.png",
     "static/media/ic_cursor.png": "/clickerbattle/static/media/ic_cursor.a37fc3e6.png",
+    "static/media/ic_energy.png": "/clickerbattle/static/media/ic_energy.bfe32abb.png",
     "static/media/ic_person.png": "/clickerbattle/static/media/ic_person.8c172c13.png",
-    "static/media/ic_qr.png": "/clickerbattle/static/media/ic_qr.c0f77e78.png",
     "static/media/ic_xp.png": "/clickerbattle/static/media/ic_xp.69040aaa.png",
-    "static/media/idk.png": "/clickerbattle/static/media/idk.dcda79fd.png",
-    "static/media/vkma_logo.svg": "/clickerbattle/static/media/vkma_logo.71156412.svg"
+    "static/media/idk.png": "/clickerbattle/static/media/idk.dcda79fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
-    "static/css/2.8ad8a0f3.chunk.css",
-    "static/js/2.5eff8043.chunk.js",
-    "static/css/main.b1878c46.chunk.css",
-    "static/js/main.4fa8f12c.chunk.js"
+    "static/css/2.2d6169ee.chunk.css",
+    "static/js/2.12954529.chunk.js",
+    "static/css/main.d5b0f3e9.chunk.css",
+    "static/js/main.771297a4.chunk.js"
   ]
 }
