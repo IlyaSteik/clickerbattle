@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clickerbattle/static/css/main.42111321.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.a6f32589.chunk.js",
+    "main.js": "/clickerbattle/static/js/main.e0637bfb.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "static/css/2.2d6169ee.chunk.css": "/clickerbattle/static/css/2.2d6169ee.chunk.css",
-    "static/js/2.4acaf57b.chunk.js": "/clickerbattle/static/js/2.4acaf57b.chunk.js",
+    "static/js/2.82d6464c.chunk.js": "/clickerbattle/static/js/2.82d6464c.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.6a9d8d855c38f497878ddeb7f565f4aa.js": "/clickerbattle/precache-manifest.6a9d8d855c38f497878ddeb7f565f4aa.js",
+    "precache-manifest.e1bb241df599a8204468394094401f9d.js": "/clickerbattle/precache-manifest.e1bb241df599a8204468394094401f9d.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
-    "static/js/2.4acaf57b.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.4acaf57b.chunk.js.LICENSE.txt",
+    "static/js/2.82d6464c.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.82d6464c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/TT-Commons.fbc901a1.otf",
     "static/media/Manrope-SemiBold.ttf": "/clickerbattle/static/media/Manrope-SemiBold.255d425d.ttf",
     "static/media/click_fall.png": "/clickerbattle/static/media/click_fall.2f1525c1.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
     "static/css/2.2d6169ee.chunk.css",
-    "static/js/2.4acaf57b.chunk.js",
+    "static/js/2.82d6464c.chunk.js",
     "static/css/main.42111321.chunk.css",
-    "static/js/main.a6f32589.chunk.js"
+    "static/js/main.e0637bfb.chunk.js"
   ]
 }
