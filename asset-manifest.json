@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clickerbattle/static/css/main.42111321.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.8281234f.chunk.js",
+    "main.css": "/clickerbattle/static/css/main.1af3bf71.chunk.css",
+    "main.js": "/clickerbattle/static/js/main.244887c8.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
     "static/css/2.2d6169ee.chunk.css": "/clickerbattle/static/css/2.2d6169ee.chunk.css",
     "static/js/2.82d6464c.chunk.js": "/clickerbattle/static/js/2.82d6464c.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.b35817f96945f98e867d5a3f352bf08f.js": "/clickerbattle/precache-manifest.b35817f96945f98e867d5a3f352bf08f.js",
+    "precache-manifest.8ff894cec63bd5d8b74d2b62799b066b.js": "/clickerbattle/precache-manifest.8ff894cec63bd5d8b74d2b62799b066b.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
     "static/js/2.82d6464c.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.82d6464c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/clickerbattle/static/media/TT-Commons.fbc901a1.otf",
+    "static/media/App.css": "/clickerbattle/static/media/TTCommons-Regular.fc6fbc1a.ttf",
     "static/media/Manrope-SemiBold.ttf": "/clickerbattle/static/media/Manrope-SemiBold.255d425d.ttf",
     "static/media/click_fall.png": "/clickerbattle/static/media/click_fall.2f1525c1.png",
     "static/media/hl-background.svg": "/clickerbattle/static/media/hl-background.09108b68.svg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.53584cdf.js",
     "static/css/2.2d6169ee.chunk.css",
     "static/js/2.82d6464c.chunk.js",
-    "static/css/main.42111321.chunk.css",
-    "static/js/main.8281234f.chunk.js"
+    "static/css/main.1af3bf71.chunk.css",
+    "static/js/main.244887c8.chunk.js"
   ]
 }
