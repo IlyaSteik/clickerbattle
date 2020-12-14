@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/clickerbattle/static/css/main.1af3bf71.chunk.css",
-    "main.js": "/clickerbattle/static/js/main.244887c8.chunk.js",
+    "main.css": "/clickerbattle/static/css/main.089be406.chunk.css",
+    "main.js": "/clickerbattle/static/js/main.bf6e2734.chunk.js",
     "runtime-main.js": "/clickerbattle/static/js/runtime-main.53584cdf.js",
-    "static/css/2.2d6169ee.chunk.css": "/clickerbattle/static/css/2.2d6169ee.chunk.css",
-    "static/js/2.82d6464c.chunk.js": "/clickerbattle/static/js/2.82d6464c.chunk.js",
+    "static/css/2.7d6d4033.chunk.css": "/clickerbattle/static/css/2.7d6d4033.chunk.css",
+    "static/js/2.e535a4cc.chunk.js": "/clickerbattle/static/js/2.e535a4cc.chunk.js",
     "index.html": "/clickerbattle/index.html",
-    "precache-manifest.8ff894cec63bd5d8b74d2b62799b066b.js": "/clickerbattle/precache-manifest.8ff894cec63bd5d8b74d2b62799b066b.js",
+    "precache-manifest.1b368257853b94fd3b5a405fa677ef88.js": "/clickerbattle/precache-manifest.1b368257853b94fd3b5a405fa677ef88.js",
     "service-worker.js": "/clickerbattle/service-worker.js",
-    "static/js/2.82d6464c.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.82d6464c.chunk.js.LICENSE.txt",
+    "static/js/2.e535a4cc.chunk.js.LICENSE.txt": "/clickerbattle/static/js/2.e535a4cc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/clickerbattle/static/media/TTCommons-Regular.fc6fbc1a.ttf",
     "static/media/Manrope-SemiBold.ttf": "/clickerbattle/static/media/Manrope-SemiBold.255d425d.ttf",
     "static/media/click_fall.png": "/clickerbattle/static/media/click_fall.2f1525c1.png",
@@ -24,9 +24,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.53584cdf.js",
-    "static/css/2.2d6169ee.chunk.css",
-    "static/js/2.82d6464c.chunk.js",
-    "static/css/main.1af3bf71.chunk.css",
-    "static/js/main.244887c8.chunk.js"
+    "static/css/2.7d6d4033.chunk.css",
+    "static/js/2.e535a4cc.chunk.js",
+    "static/css/main.089be406.chunk.css",
+    "static/js/main.bf6e2734.chunk.js"
   ]
 }
